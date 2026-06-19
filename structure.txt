@@ -1,0 +1,7 @@
+
+svm-cats-dogs/
+│
+├── svm_cats_dogs.ipynb
+├── requirements.txt
+├── confusion_matrix.png
+└── README.md
